@@ -1,0 +1,65 @@
+{
+  "offerExperienceVersion": "V1",
+  "offerList": [
+    {
+      "creationDate": 1730820963.949,
+      "deliveryCutOffTimeEpoch": null,
+      "deliveryRequest": null,
+      "endTime": 1731064500,
+      "expirationDate": 1731050100,
+      "hidden": true,
+      "isPriorityOffer": false,
+      "legalEntity": null,
+      "maxWorkload": 0,
+      "offerId": "Ok9mZmVySWQuRW5jcnlwdGlvbktleS1wbkVYMkwAAAAA0BlixhTu1q0d09vC8TBHVwJEgn5mdtOO72Vl8zNprHvOr9c7lpEyvUMjcqxd7be5cXKBePgvYTU+ZWMkXXgxytcRvXu3hsQlEesg7vYVoXPaTeh2jjKg4EwXNBWZG+p4+TwmnUmtG2x6nzD3OOmZ93+3UwPEeAWdzaGXautI/LXFAugGUHaIWzBuTBY9nX3vONPlmHuc/3xND7rIUklzBcchXanWvYXltHqkHKfJddGK3973gYozwSdbR9ek8/mbKsW4rQ1hweLfodzc7sSbN7hGRefxnLBBpgRuBGpr/bvtyvYMFWFcfhY1OvEb+cb4qdHhUChYxBMTaH4FRvKDb5oBTQiv8sMqWqvI2jYUzI3AtBrUso1qYU0A1EJEPtQqm52ZpLzRiZ0FBV/bqVTLBFtxNvbdJ76AQ5fgx8xwxV5qYCx3ESP22d8pPgy3NLMoVkEQSxHTj5tSFPAhsZud|J9Ou/fsSV7mkbyG02CrfqgzL3ZqImW3cosFbCVaOGLE=",
+      "offerMetadata": {
+        "disclaimers": null,
+        "offerLabel": null,
+        "offerLabels": null,
+        "offerTier": 0,
+        "presentations": null,
+        "routeDetails": null
+      },
+      "offerType": "NON_EXCLUSIVE",
+      "rateInfo": {
+        "PriceDetails": null,
+        "currency": "GBP",
+        "isSurge": false,
+        "priceAmount": 64,
+        "pricingUXVersion": "V0",
+        "projectedTips": 0,
+        "surgeMultiplier": null,
+        "tipPresentation": null
+      },
+      "schedulingType": "BLOCK",
+      "serviceAreaId": "945c9a00-c522-4a25-9b4f-3205d503640f",
+      "serviceTypeId": "amzn1.flex.st.v1.qMB-7+zbQmOuUYPUC5pu+Q",
+      "serviceTypeMetadata": null,
+      "startTime": 1731050100,
+      "startingLocation": {
+        "address": {
+          "address1": "MP411 Magna Park",
+          "address2": null,
+          "address3": null,
+          "addressId": null,
+          "city": "Lutterworth",
+          "countryCode": "GB",
+          "name": "DBI7",
+          "phone": null,
+          "postalCode": "LE17 4XR",
+          "state": "Lutterworth"
+        },
+        "geocode": {
+          "latitude": 52.464861,
+          "longitude": -1.249278
+        },
+        "locationType": null,
+        "startingLocationName": "DBI7"
+      },
+      "status": "OFFERED",
+      "trIds": null
+    }
+  ],
+  "refreshInterval": 1000,
+  "refreshTimeout": 1800000
+}

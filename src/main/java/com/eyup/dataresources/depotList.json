@@ -1,0 +1,733 @@
+{
+  "region": {
+    "availablePrograms": [
+      "DSP",
+      "CSP"
+    ],
+    "id": "2",
+    "name": "West Midlands",
+    "serviceAreas": [
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "16e4dc1b-69f9-4219-a053-a5cdc06346eb",
+        "name": "Banbury (CU63) - Morrisons (OX16 5AQ)",
+        "onboardingEnabled": true,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons, 1 Swan Cl Rd",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Banbury",
+            "countryCode": "GB",
+            "name": "CU63",
+            "phone": null,
+            "postalCode": "OX16 5AQ",
+            "state": "Banbury"
+          },
+          "geocode": {
+            "latitude": 52.057141,
+            "longitude": -1.33228
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "913ab40b-0475-43ea-8abb-61e3d2ef2f19",
+        "name": "Banbury (DOX2) - Amazon Logistics (OX16 2DJ)",
+        "onboardingEnabled": true,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Unit 3, Southam Road, Banbury Cross",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Banbury",
+            "countryCode": "GB",
+            "name": "DOX2",
+            "phone": null,
+            "postalCode": "OX16 2DJ",
+            "state": "Oxfordshire"
+          },
+          "geocode": {
+            "latitude": 52.080803,
+            "longitude": -1.334555
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "cbfeaddb-2982-4320-bb48-e8027572395e",
+        "name": "Birmingham (DBI2) - Amazon Logistics CAZ (B11 3RE)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Battery Way, Birmingham",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "DBI2",
+            "phone": null,
+            "postalCode": "B113RE",
+            "state": "Tyseley"
+          },
+          "geocode": {
+            "latitude": 52.449977,
+            "longitude": -1.849783
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "90d48949-ceed-441e-9938-a25068082f87",
+        "name": "Birmingham (DBI3) - Amazon Logistics CAZ (B6 7AP)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Nexus Point, Eliot St",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "DBI3",
+            "phone": null,
+            "postalCode": "B6 7AP",
+            "state": "West Midlands"
+          },
+          "geocode": {
+            "latitude": 52.523858,
+            "longitude": -1.88875
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "d7f3d414-8a80-4503-abdb-38de43e6aab9",
+        "name": "Birmingham (DBI4) - Amazon Logistics (B98 9EY)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Redditch 122, Hedra Road, Moons Moat North",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "DBI4",
+            "phone": null,
+            "postalCode": "B98 9EY",
+            "state": "Redditch"
+          },
+          "geocode": {
+            "latitude": 52.3143224,
+            "longitude": -1.880774475
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "c9bd20e4-bcc4-4fe7-9f6f-6300481c75ec",
+        "name": "Birmingham (DBI5) - Amazon Logistics (B76 1AF)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Unit H2 & H1 Midpoint, Midpoint Park, Minworth",
+            "address2": "Sutton Coldfield",
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "DBI5",
+            "phone": null,
+            "postalCode": "B76 1AF",
+            "state": "Minworth"
+          },
+          "geocode": {
+            "latitude": 52.525293,
+            "longitude": -1.777673
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "65800420-3433-4cb5-ad97-9ac974b68ef4",
+        "name": "Birmingham (OMD8) - Sub Same Day (B24 9QJ)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Amazon, Unit 3A, Merlin Park",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "OMD8",
+            "phone": null,
+            "postalCode": "B24 9QK",
+            "state": "Edrington"
+          },
+          "geocode": {
+            "latitude": 52.511873,
+            "longitude": -1.823466
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "7d17d74a-b386-4fcb-86c3-3d1f75fe71ed",
+        "name": "Birmingham (RU03) - Community Organisation",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "81-91 John Bright St",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "City Centre",
+            "phone": null,
+            "postalCode": "B1 1BL",
+            "state": "UK"
+          },
+          "geocode": {
+            "latitude": 52.4781825,
+            "longitude": -1.9024829
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "644258e3-e245-4377-b5e8-26f9337f989a",
+        "name": "Birmingham (VMA4) - Sub Same Day (B76 9AH)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Peddimore Lane",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Sutton Coldfield",
+            "countryCode": "GB",
+            "name": "VMA4",
+            "phone": null,
+            "postalCode": "B76 9QE",
+            "state": "Birmingham"
+          },
+          "geocode": {
+            "latitude": 52.53546,
+            "longitude": -1.77149
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "NOT_OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "677ec52d-e776-45a6-a16f-d07b4fdee360",
+        "name": "Bromsgrove (CU46) - Morrisons (B60 3DX)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons 54 Sherwood Rd",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Bromsgrove",
+            "countryCode": "GB",
+            "name": "CU46",
+            "phone": null,
+            "postalCode": "B60 3DX",
+            "state": "Bromsgrove"
+          },
+          "geocode": {
+            "latitude": 52.31717,
+            "longitude": -2.065229
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "f8310334-71bd-4bdf-a87f-9bb599a5a5aa",
+        "name": "Coventry Binley (CU49) - Morrisons (CV3 2AN)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons, 1 Kynner Way",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Coventry",
+            "countryCode": "GB",
+            "name": "CU49",
+            "phone": null,
+            "postalCode": "CV3 2AN",
+            "state": "Coventry"
+          },
+          "geocode": {
+            "latitude": 52.397438,
+            "longitude": -1.435645
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "ac37de9a-735d-4a18-ab3e-5ce925d63c8d",
+        "name": "Erdington (VAP4) - Sub Same Day CAZ (B24 9QJ)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Amazon.co.uk Ltd., UNIT 3A, MERLIN PARK,",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "BIRMINGHAM",
+            "countryCode": "GB",
+            "name": "VAP4 Sub Same Day",
+            "phone": null,
+            "postalCode": "B24 9QJ",
+            "state": "W MIDLANDS"
+          },
+          "geocode": {
+            "latitude": 52.512148,
+            "longitude": -1.823953
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "6",
+        "name": "Erdington Birmingham (UUK3) - Fresh - CAZ",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Amazon.co.uk Ltd., UNIT 3A, MERLIN PARK,",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "BIRMINGHAM",
+            "countryCode": "GB",
+            "name": "UFF - Birmingham (UUK3)",
+            "phone": null,
+            "postalCode": "B24 9QJ",
+            "state": "W MIDLANDS"
+          },
+          "geocode": {
+            "latitude": 52.5129521,
+            "longitude": -1.8239453
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "945c9a00-c522-4a25-9b4f-3205d503640f",
+        "name": "Lutterworth (DBI7) - Amazon Logistics (LE17 4XR)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "MP411 Magna Park",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Lutterworth",
+            "countryCode": "GB",
+            "name": "DBI7",
+            "phone": null,
+            "postalCode": "LE17 4XR",
+            "state": "Lutterworth"
+          },
+          "geocode": {
+            "latitude": 52.464861,
+            "longitude": -1.249278
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "e52e0ee8-8c37-4bac-a8b3-11824c94b947",
+        "name": "Middlewich (CU76) - Morrisons (CW10 9EX)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Newton Bank",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Middlewich",
+            "countryCode": "GB",
+            "name": "CU76",
+            "phone": null,
+            "postalCode": "CW10 9EX",
+            "state": "UK"
+          },
+          "geocode": {
+            "latitude": 53.1935563,
+            "longitude": -2.4547658
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "NOT_OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "462f7b8b-f216-461c-b253-93ce34386d44",
+        "name": "Penn (CC16) - Coop (WV4 4LP)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "46 Warstones Rd",
+            "address2": "Penn",
+            "address3": null,
+            "addressId": null,
+            "city": "Wolverhampton",
+            "countryCode": "GB",
+            "name": "Penn (CC16) - Coop (WV4 4LP)",
+            "phone": null,
+            "postalCode": "WV44LP",
+            "state": "Wolverhampton"
+          },
+          "geocode": {
+            "latitude": 52.567582439966195,
+            "longitude": -2.1657705558919407
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "44869c8e-4f19-47d4-a346-88c560bfc221",
+        "name": "Sheldon (CUK3) - Morrisons CAZ (B26 3PD)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons, 2259-2297 Coventry Road",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Birmingham",
+            "countryCode": "GB",
+            "name": "CUK3",
+            "phone": null,
+            "postalCode": "B26 3PD",
+            "state": "UK"
+          },
+          "geocode": {
+            "latitude": 52.451215,
+            "longitude": -1.778298
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "471dca75-a64f-4ed0-8848-d23807cd0e76",
+        "name": "Stoke (CU30) - Morrisons (ST1 5NY)",
+        "onboardingEnabled": true,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons Festival Park,",
+            "address2": "Pavilion Dr,",
+            "address3": null,
+            "addressId": null,
+            "city": "Stoke-on-Trent",
+            "countryCode": "GB",
+            "name": "CU30",
+            "phone": null,
+            "postalCode": "ST1 5NY",
+            "state": "Stoke-on-Trent"
+          },
+          "geocode": {
+            "latitude": 53.030957,
+            "longitude": -2.192438
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "e7645f04-d89c-4ad6-8085-f0e02194ed9a",
+        "name": "Stoke (DST1) - Amazon Logistics (ST4 8GR)",
+        "onboardingEnabled": true,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Trentham Lakes, Stanley Matthews Way",
+            "address2": null,
+            "address3": "Stoke on Trent",
+            "addressId": null,
+            "city": "Stoke On Trent",
+            "countryCode": "GB",
+            "name": "DST1",
+            "phone": null,
+            "postalCode": "ST4 8GR",
+            "state": "West Midlands"
+          },
+          "geocode": {
+            "latitude": 52.977055,
+            "longitude": -2.172098
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "b05d23b4-51fb-4ff4-9307-a9cc3fa9d6fc",
+        "name": "Walsall (CU03) - Morrisons CAZ (WS2 9BZ)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons, Wallows Lane",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Walsall",
+            "countryCode": "GB",
+            "name": "CU03",
+            "phone": null,
+            "postalCode": "WS2 9BZ",
+            "state": "Birmingham"
+          },
+          "geocode": {
+            "latitude": 52.571495,
+            "longitude": -1.997903
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "9657546d-0af2-4852-98d9-19d2aaf74397",
+        "name": "Wednesbury Birmingham (DXB1) -Amazon Logistics CAZ",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Pl. St giles",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Oxford",
+            "countryCode": "GB",
+            "name": "DXB1",
+            "phone": null,
+            "postalCode": "OX1 3LZ",
+            "state": "Wednesbury Birmingham"
+          },
+          "geocode": {
+            "latitude": 51.75759994673903,
+            "longitude": -1.2596744516937861
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "8ccfaa6f-7cb4-453d-90ae-0e45c8e3edfa",
+        "name": "Wellington (CU74) - Morrisons (TF1 1RP)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Morrisons, Spring Hill",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Wellington",
+            "countryCode": "GB",
+            "name": "CU74",
+            "phone": null,
+            "postalCode": "TF1 1RP",
+            "state": "Telford"
+          },
+          "geocode": {
+            "latitude": 52.70242572205897,
+            "longitude": -2.5239155870180263
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "04dd1929-d7fb-4060-ac8a-d65b2554f33c",
+        "name": "Wolverhampton (CU83) - Morrisons (WV14 0DZ)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Black Country Rte",
+            "address2": null,
+            "address3": null,
+            "addressId": null,
+            "city": "Bilston",
+            "countryCode": "GB",
+            "name": "CU83",
+            "phone": null,
+            "postalCode": "WV14 0DZ",
+            "state": "UK"
+          },
+          "geocode": {
+            "latitude": 52.5644403,
+            "longitude": -2.0771674
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      },
+      {
+        "accessibilityFeatures": null,
+        "accessibilityInfo": null,
+        "attributes": null,
+        "boundary": null,
+        "deliveryArea": null,
+        "id": "5edbf1e4-4b82-4ec1-8826-f899b5095efd",
+        "name": "Worcester (DWR1) - Amazon Logistics CAZ (WR9 0QH)",
+        "onboardingEnabled": false,
+        "pickUpLocation": {
+          "address": {
+            "address1": "Droitwich 125,",
+            "address2": "Hampton Lovett, Droitwich Spa",
+            "address3": null,
+            "addressId": null,
+            "city": "Worcester",
+            "countryCode": "GB",
+            "name": "DWR1",
+            "phone": null,
+            "postalCode": "WR9 0QH",
+            "state": "Worcestershire"
+          },
+          "geocode": {
+            "latitude": 52.286778,
+            "longitude": -2.172861
+          }
+        },
+        "serviceTypeIds": null,
+        "status": "OPERATIONAL"
+      }
+    ],
+    "status": "OPERATIONAL"
+  }
+}

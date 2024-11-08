@@ -1,0 +1,76 @@
+Nov 08, 2024 3:53:20 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 3:53:20 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 3:53:41 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 3:53:41 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 3:55:51 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 3:55:51 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 3:56:52 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 3:56:52 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:02:49 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: [{creationDate=1.7308279E9, deliveryCutOffTimeEpoch=null, deliveryRequest=null, endTime=1.73110144E9, expirationDate=1.73108698E9, hidden=true, isPriorityOffer=false, legalEntity=null, maxWorkload=0, offerId=Ok9mZmVySWQuRW5jcnlwdGlvbktleS1wbkVYMkwAAAAA0BlixhTu1q0XgYCUqz0VCwJM1yw9dteI5Gxl9mQ8+3vKq907w8FlvUUjL/td7be5cXKBePgvYTU+ZWMkXXgxnNNBv3vj0Z8lHL1/7PYV8yfYTesv2Tag5EwUN0HPSbsqqD5wnUmtHmotyDX7ae6Z93/pCAPEdQbHzfiTPuxIqu2TXugFWyWGWjE/TBY9nX3vONPlmHuc/3xND7rIUklzBcchXanWvYXltHqkHKfJddGK3973gYozwSdbR9ek8/ScK8W4rQ1hweCOpd/e65ieYelFF+b7zbtA8wdsVW06+LDqyqEJRzYKeko1PalP/sD5pNa3BiBTlkpDOikCF/yDNM4HG1v888YrWPPIjDZBzojBvEPVtY1rNBsD1x8TbYJxkc2Yq+rW3sBWAluPq1HKD1p1Nqvaeb7WRMzlls9xwlw4M3whGiGl2d8pPgy3NLM15v01QTWJ42x6WHhouJGE|8jiwNpyCK0zMd8cvKutn2xqhIMLGL4MzDwJ426UFc4s=, offerMetadata={disclaimers=null, offerLabel=null, offerLabels=null, offerTier=0, presentations=null, routeDetails=null}, offerType=NON_EXCLUSIVE, rateInfo={PriceDetails=null, currency=GBP, isSurge=false, priceAmount=64.0, pricingUXVersion=V0, projectedTips=0.0, surgeMultiplier=null, tipPresentation=null}, schedulingType=BLOCK, serviceAreaId=945c9a00-c522-4a25-9b4f-3205d503640f, serviceTypeId=amzn1.flex.st.v1.qMB-7+zbQmOuUYPUC5pu+Q, serviceTypeMetadata=null, startTime=1.73108698E9, startingLocation={address={address1=MP411 Magna Park, address2=null, address3=null, addressId=null, city=Lutterworth, countryCode=GB, name=DBI7, phone=null, postalCode=LE17 4XR, state=Lutterworth}, geocode={latitude=52.464863, longitude=-1.249278}, locationType=null, startingLocationName=DBI7}, status=OFFERED, trIds=null}]
+Nov 08, 2024 4:02:49 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: priceAmounts: [64.0]
+Nov 08, 2024 4:02:49 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: serviceAreaIds: [945c9a00-c522-4a25-9b4f-3205d503640f]
+Nov 08, 2024 4:02:49 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[{"creationDate":1.730827864581E9,"deliveryCutOffTimeEpoch":null,"deliveryRequest":null,"endTime":1.7311014E9,"expirationDate":1.731087E9,"hidden":true,"isPriorityOffer":false,"legalEntity":null,"maxWorkload":0,"offerId":"Ok9mZmVySWQuRW5jcnlwdGlvbktleS1wbkVYMkwAAAAA0BlixhTu1q0XgYCUqz0VCwJM1yw9dteI5Gxl9mQ8+3vKq907w8FlvUUjL/td7be5cXKBePgvYTU+ZWMkXXgxnNNBv3vj0Z8lHL1/7PYV8yfYTesv2Tag5EwUN0HPSbsqqD5wnUmtHmotyDX7ae6Z93/pCAPEdQbHzfiTPuxIqu2TXugFWyWGWjE/TBY9nX3vONPlmHuc/3xND7rIUklzBcchXanWvYXltHqkHKfJddGK3973gYozwSdbR9ek8/ScK8W4rQ1hweCOpd/e65ieYelFF+b7zbtA8wdsVW06+LDqyqEJRzYKeko1PalP/sD5pNa3BiBTlkpDOikCF/yDNM4HG1v888YrWPPIjDZBzojBvEPVtY1rNBsD1x8TbYJxkc2Yq+rW3sBWAluPq1HKD1p1Nqvaeb7WRMzlls9xwlw4M3whGiGl2d8pPgy3NLM15v01QTWJ42x6WHhouJGE|8jiwNpyCK0zMd8cvKutn2xqhIMLGL4MzDwJ426UFc4s=","offerMetadata":{"disclaimers":null,"offerLabel":null,"offerLabels":null,"offerTier":0,"presentations":null,"routeDetails":null},"offerType":"NON_EXCLUSIVE","rateInfo":{"PriceDetails":null,"currency":"GBP","isSurge":false,"priceAmount":64.0,"pricingUXVersion":"V0","projectedTips":0.0,"surgeMultiplier":null,"tipPresentation":null},"schedulingType":"BLOCK","serviceAreaId":"945c9a00-c522-4a25-9b4f-3205d503640f","serviceTypeId":"amzn1.flex.st.v1.qMB-7+zbQmOuUYPUC5pu+Q","serviceTypeMetadata":null,"startTime":1.731087E9,"startingLocation":{"address":{"address1":"MP411 Magna Park","address2":null,"address3":null,"addressId":null,"city":"Lutterworth","countryCode":"GB","name":"DBI7","phone":null,"postalCode":"LE17 4XR","state":"Lutterworth"},"geocode":{"latitude":52.464861,"longitude":-1.249278},"locationType":null,"startingLocationName":"DBI7"},"status":"OFFERED","trIds":null}],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:04:14 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:04:14 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:04:20 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:04:20 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:04:27 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:04:27 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:04:43 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:04:43 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:04:56 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:04:56 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:05:02 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:05:02 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:05:10 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:05:10 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:05:21 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:05:21 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:05:30 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:05:30 AM com.eyup.services.GetOffer main
+INFO: {"offerExperienceVersion":"V1","offerList":[],"refreshInterval":1000,"refreshTimeout":1800000}
+Nov 08, 2024 4:09:12 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:10:44 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:17:47 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 4:17:54 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 5:02:04 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 5:02:04 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 5:02:16 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
+Nov 08, 2024 5:02:16 AM com.eyup.services.GetOffer getOfferRestAssured
+INFO: Offers: []
