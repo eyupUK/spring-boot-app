@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html decorate="layouts/defaultTemplate" xmlns:th="http://www.w3.org/1999/xhtml" lang="en" xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<style>
+
+</style>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AmazonFlex</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/themes.css" />
+</head>
+<body>
+<!-- header -->
+<div th:insert="~{layout/commonHeader :: header}">My header</div>
+<!-- content -->
+<section layout:fragment="content">
+    <p> Replace this section with your own </p>
+</section>
+<!-- footer -->
+<div th:insert="~{layout/commonFooter :: footer}">My footer</div>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/new-theme-switcher.js"></script>
+</body>
+</html>

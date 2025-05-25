@@ -1,6 +1,7 @@
 package com.eyup.utilities;
 
 import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class MailSender {
     private static final Logger logger = LoggerFactory.getLogger(MailSender.class);
 
-    static WebDriver driver = Driver.get();
+    static WebDriver driver = new ChromeDriver();
 
     static String imagePath = System.getProperty("user.dir") + "/screenshots/block_scheduled.jpg";
     static  String to = ConfigurationReader.get("email");
@@ -69,9 +70,9 @@ public class MailSender {
         Thread.sleep(500);
         driver.findElement(By.xpath("//input[@placeholder='Subject']")).sendKeys(subject);
         Thread.sleep(500);
-        driver.findElement(By.xpath("//input[@type='file']")).sendKeys(imagePath);
+        //driver.findElement(By.xpath("//input[@type='file']")).sendKeys(imagePath);
         Thread.sleep(1500);
-        driver.findElement(By.xpath("//button[.='Attachment']")).click();
+        //driver.findElement(By.xpath("//button[.='Attachment']")).click();
         Thread.sleep(4000);
         WebElement iframe = driver.findElement(By.xpath("//iframe[@title='Email composer']"));
         driver.switchTo().frame(iframe);

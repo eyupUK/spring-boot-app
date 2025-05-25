@@ -1,0 +1,56 @@
+{
+  "requested_extensions": [
+    "device_info",
+    "customer_info"
+  ],
+  "cookies": {
+    "website_cookies": [
+      {
+        "Value": "2361717876l",
+        "Name": "session-id-time"
+      },
+      {
+        "Value": "XFJRWTD1K5NP7S2HDY29+s-XFJRWTD1K5NP7S2HDY29|1730916137128",
+        "Name": "csm-hit"
+      },
+      {
+        "Value": "en_GB",
+        "Name": "lc-acbgb"
+      },
+      {
+        "Value": "GBP",
+        "Name": "i18n-prefs"
+      },
+      {
+        "Value": "en_GB",
+        "Name": "lc-acbuk"
+      }
+    ],
+    "domain": ".amazon.co.uk"
+  },
+  "registration_data": {
+    "domain": "Device",
+    "app_version": "0.0",
+    "device_type": "A3NWHXTQ4EBCZS",
+    "os_version": "17.6.1",
+    "device_serial": "582F192EC946472BAFD4AB83B574E97B",
+    "device_model": "iPhone",
+    "app_name": "Amazon Flex",
+    "software_version": "1"
+  },
+  "auth_data": {
+    "client_id": "35383246313932454339343634373242414644344142383342353734453937422341334e5748585451344542435a53",
+    "authorization_code": "RHmbaNXKiltUGQzVsNpWparR",
+    "code_verifier": "2StJ8ggeOOItlgOx1dDRx2qYxkmw4nTTSiGPjbOjSHQ",
+    "code_algorithm": "SHA-256",
+    "client_domain": "DeviceLegacy"
+  },
+  "user_context_map": {
+    "frc": "ANlF1ZdxLRzXjV2SOWEskK3G31+uszunvat5xkc7zOyYqb3reRIBEPOfQHLGRtfg7OwUKkEmdrAYkEFme4bI2MxrnCTSDjw53WtclZJrb3jVpcbRKB4VhVcKkMB8bykQlzVoeklWX3vxErC42+mPA6W3HnkD95Jy+eWRtxtHM2nbB7JzrlkN/kxO+rkPzGguKiUMJMEKAYkHb0jqvFUMMW4k7oJYDtA+G6eU9yPXn2IpdZ1VQtcHXThG0p5eH87wxzKV+Hx4V+DAvV9xVVazaCFFmPmNU/B2OEiVwR3yqO7GQ5BZcCWM43Ypz6A5oit79YloX0w0wRjq1+V4Z6O3nBzqfPzvvW1XlJFsq6fmtWJ35kaQPfKEevcCsp8AVWPUkhzNt6PbJ5QP"
+  },
+  "requested_token_type": [
+    "bearer",
+    "mac_dms",
+    "website_cookies"
+  ]
+}

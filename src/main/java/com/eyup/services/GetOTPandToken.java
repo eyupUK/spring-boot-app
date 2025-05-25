@@ -12,8 +12,7 @@ public class GetOTPandToken {
 //    public static void main(String[] args) {
 //        }
     public static String getOTPCode() {
-        RestAssured.baseURI = "ht" +
-                "tps://api.amazon.com";
+        RestAssured.baseURI = "https://api.amazon.com";
 
         String requestBody = "{"
                 + "\"requested_extensions\":[\"device_info\",\"customer_info\"],"

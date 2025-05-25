@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html layout:decorate="layout/defaultLayout" xmlns:layout="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="container" layout:fragment="content">
+        <h2 class="mt-5">Sign In</h2>
+        <form action="#" method="post" th:action="@{processSignIn}" th:object="${signIn}">
+            <div class="form-group">
+                <label for="email">Email address:</label>
+                <input th:field="*{email}" type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="pwd">Password:</label>
+                <input th:field="*{password}" type="password" class="form-control" id="pwd" name="password" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Sign In</button>
+        </form>
+    </div>
+</body>
+</html>

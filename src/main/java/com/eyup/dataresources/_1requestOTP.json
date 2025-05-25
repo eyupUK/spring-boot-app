@@ -1,0 +1,55 @@
+{
+  "requested_extensions": [
+    "device_info",
+    "customer_info"
+  ],
+  "cookies": {
+    "website_cookies": [
+      {
+        "Value": "2361717876l",
+        "Name": "session-id-time"
+      },
+      {
+        "Value": "XFJRWTD1K5NP7S2HDY29+s-XFJRWTD1K5NP7S2HDY29|1730916137128",
+        "Name": "csm-hit"
+      },
+      {
+        "Value": "en_GB",
+        "Name": "lc-acbgb"
+      },
+      {
+        "Value": "GBP",
+        "Name": "i18n-prefs"
+      },
+      {
+        "Value": "en_GB",
+        "Name": "lc-acbuk"
+      }
+    ],
+    "domain": ".amazon.co.uk"
+  },
+  "registration_data": {
+    "domain": "Device",
+    "app_version": "0.0",
+    "device_type": "A3NWHXTQ4EBCZS",
+    "os_version": "17.6.1",
+    "device_serial": "582F192EC946472BAFD4AB83B574E97B",
+    "device_model": "iPhone",
+    "app_name": "Amazon Flex",
+    "software_version": "1"
+  },
+  "auth_data": {
+    "user_id_password": {
+      "user_id": "meyuptozcu@gmail.com",
+      "password": "Aa,132639"
+    }
+  },
+  "user_context_map": {
+    "frc": "AF/RSSnfg0O6011S/FMZ6JlT9+e5+uWdnylBPdlYomjc1SMbyn9+RUaQu/tFcLKuAtQ9O9ECJCnUeVyX76ZvRvv0VGjd28B6kgIMwcitS8Oq27pY7H3C0m/GVUIW6eiiNPb30IHyjy2v5xn5lHzkvkwOIC1P2nfcT+zlj5MO+K6sWpQOsO8edP/+CGMSlSFCGCcgOxO26f5+NYLA9DdUdkfi2LIHHaQwasJKFR2L0yYva+EIYYg8KiGWv+sQ1hKph4xi0b8s+gmQmwyb8BvK4DrzpoRzekC5GVqQGj8QKnGkABAxY4l3RfTRjZA3I2CNrNDbxQA7Ey1nvzbgzGKdS+SGEOor3yRmxr/HN9fsF3BU90El2oPiuo+8SSDCAJ1cjLEdFXrLm0cu"
+  },
+  "requested_token_type": [
+    "bearer",
+    "mac_dms",
+    "website_cookies"
+  ]
+}

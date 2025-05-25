@@ -1,0 +1,310 @@
+{
+  "events": [
+    {
+      "data": {
+        "messageId": "3lw4ii-9nx8wu-sbmf8w-68beks",
+        "markers": {
+          "pc": 3590,
+          "at": 3590,
+          "visuallyLoaded10": 727,
+          "visuallyLoaded20": 727,
+          "visuallyLoaded30": 727,
+          "visuallyLoaded40": 727,
+          "visuallyLoaded50": 727,
+          "vl50": 727,
+          "visuallyLoaded60": 727,
+          "visuallyLoaded70": 727,
+          "visuallyLoaded80": 727,
+          "visuallyLoaded90": 727,
+          "vl90": 727,
+          "visuallyLoaded100": 727,
+          "vl100": 727,
+          "speedIndex": 727,
+          "si": 727,
+          "visuallyLoaded0": 0,
+          "atfSpeedIndex": 727,
+          "atfsi": 727,
+          "cumulativeLayoutShiftLastTimestamp": 0
+        },
+        "markerTimestamps": {
+          "pc": 1731037339053,
+          "at": 1731037339053,
+          "visuallyLoaded10": 1731037336190,
+          "visuallyLoaded20": 1731037336190,
+          "visuallyLoaded30": 1731037336190,
+          "visuallyLoaded40": 1731037336190,
+          "visuallyLoaded50": 1731037336190,
+          "vl50": 1731037336190,
+          "visuallyLoaded60": 1731037336190,
+          "visuallyLoaded70": 1731037336190,
+          "visuallyLoaded80": 1731037336190,
+          "visuallyLoaded90": 1731037336190,
+          "vl90": 1731037336190,
+          "visuallyLoaded100": 1731037336190,
+          "vl100": 1731037336190,
+          "speedIndex": 1731037336190,
+          "si": 1731037336190,
+          "visuallyLoaded0": 1731037335463,
+          "atfSpeedIndex": 1731037336190,
+          "atfsi": 1731037336190,
+          "cumulativeLayoutShiftLastTimestamp": 1731037335463
+        },
+        "navigationStartTimestamp": "2024-11-08T03:42:15.463Z",
+        "schemaId": "csa.PageLatency.6",
+        "timestamp": "2024-11-08T03:42:16.366Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "messageId": "khla62-tpzxk2-crpb0i-cxufqq",
+        "schemaId": "csa.InternalCounters.3",
+        "c": {
+          "postbackImageSize": {
+            "s": 1354,
+            "l": 213,
+            "c": 4
+          },
+          "aui:aui-supported-rupee": {
+            "f": 1
+          },
+          "contactVerificationCVFCreate": {
+            "f": 1
+          }
+        },
+        "timestamp": "2024-11-08T03:42:16.366Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "renderedToMeaningful": 45,
+        "renderedToViewed": 45,
+        "renderedToImpressed": 1047,
+        "schemaId": "csa.PageImpressed.3",
+        "timestamp": "2024-11-08T03:42:17.159Z",
+        "messageId": "bo0mtk-n6dai3-c5qsfp-arr8wf",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "meaningful": "interactive",
+            "url": "https://www.amazon.co.uk/ap/mfa/262-1801103-4992132?ie=UTF8&arb=55ff2ca4-e8ec-4b57-a3a1-6b3ff1ee0168&mfa.arb.value=55ff2ca4-e8ec-4b57-a3a1-6b3ff1ee0168&mfa.arb.key=arb",
+            "server": "www.amazon.co.uk",
+            "path": "/ap/mfa/262-1801103-4992132",
+            "referrer": "",
+            "title": "Two-Step Verification",
+            "transitionType": "hard",
+            "pageType": "AuthenticationPortal",
+            "subPageType": "",
+            "pageTypeId": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "schemaId": "csa.ContentInteraction.2",
+        "interaction": "click",
+        "interactionData": {
+          "interactionX": "92",
+          "interactionY": "201",
+          "parentChain": "HTML/BODY/DIV/DIV/DIV/FORM/DIV/DIV/LABEL/SPAN"
+        },
+        "messageId": "8ytfqb-vc0ped-1gk0ea-rs2e0x",
+        "attribution": "//*[@id='auth-mfa-form']/DIV[2]/DIV/LABEL/SPAN",
+        "timestamp": "2024-11-08T03:42:17.451Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "messageId": "9c4jy9-zeejv6-qgkfq3-cg4b9h",
+        "schemaId": "csa.Metric.4",
+        "metrics": {
+          "documentCumulativeLayoutShiftToFirstInput": 0,
+          "documentCumulativeLayoutShift": 0
+        },
+        "dimensions": {},
+        "timestamp": "2024-11-08T03:42:17.451Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "schemaId": "csa.ContentInteraction.2",
+        "interaction": "click",
+        "interactionData": {
+          "interactionX": "92",
+          "interactionY": "201",
+          "parentChain": "HTML/BODY/DIV/DIV/DIV/FORM/DIV/DIV/LABEL/INPUT"
+        },
+        "messageId": "pcv22y-urmfl1-91crdx-m0bf1l",
+        "attribution": "//*[@id='auth-mfa-remember-device']",
+        "timestamp": "2024-11-08T03:42:17.452Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "schemaId": "csa.ContentInteraction.2",
+        "interaction": "click",
+        "interactionData": {
+          "interactionX": "133",
+          "interactionY": "151",
+          "parentChain": "HTML/BODY/DIV/DIV/DIV/FORM/DIV/INPUT"
+        },
+        "messageId": "9bczwv-h3bxay-up9od-j32vwd",
+        "attribution": "//*[@id='auth-mfa-otpcode']",
+        "timestamp": "2024-11-08T03:42:17.874Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "messageId": "r673jd-bgnihp-6m40ye-a5satd",
+        "schemaId": "csa.ContentLatency.4",
+        "markers": {
+          "visuallyLoaded50": 727,
+          "visuallyLoaded90": 727
+        },
+        "timestamp": "2024-11-08T03:42:19.050Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "schemaId": "csa.ContentInteraction.2",
+        "interaction": "click",
+        "interactionData": {
+          "interactionX": "244",
+          "interactionY": "259",
+          "parentChain": "HTML/BODY/DIV/DIV/DIV/FORM/DIV/DIV/SPAN/SPAN/INPUT"
+        },
+        "messageId": "9fva3y-pwv33m-n788wd-sspyfg",
+        "attribution": "//*[@id='auth-signin-button']",
+        "timestamp": "2024-11-08T03:42:20.893Z",
+        "application": "Other:www.amazon.co.uk",
+        "obfuscatedMarketplaceId": "A1F83G8C2ARO7P",
+        "lob": "0",
+        "producerId": "csa",
+        "entities": {
+          "page": {
+            "id": "v4xnys-olemp-hess9v-urss1u",
+            "requestId": "RXBZX38NH3TP3K6T6WAW",
+            "pageType": "AuthenticationPortal",
+            "subPageType": ""
+          },
+          "session": {
+            "id": "262-1801103-4992132"
+          }
+        }
+      }
+    }
+  ]
+}
